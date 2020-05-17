@@ -10,7 +10,7 @@ Training project for microservices course
  - **DELIVERY SYSTEM EMPLOYEE** 
 
 ## User stories
- - As a **CUSTOMER** I want to choose some product and create an order
+ - As a **CUSTOMER** I want to choose some product and create new order
  - As a **CUSTOMER** I want to add payment info for my order
  - As a **CUSTOMER** I want to add delivery info for my order
  - As a **CUSTOMER** I want to submit my order
